@@ -1,6 +1,6 @@
 {
-  "name": "@froyoswap/froyo-swap-lib",
-  "version": "0.1.0",
+  "name": "@froyoswap/froyoswap-libs",
+  "version": "0.1.2",
   "description": "Froyo Swap Lib",
   "files": [
     "contracts",
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:froyoswap/froyo-swap-lib.git"
+    "url": "ssh://git@github.com:froyoswap/froyoswap-libs.git"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
