@@ -13,7 +13,7 @@ Run `yarn test` to execute the test suite.
 
 ## Usage
 
-Install this in another project via `yarn add @froyoswap/froyoswap-libs` 
+Install this in another project via `yarn add @froyoswap/froyo-swap-lib` 
 
 Then import the contracts via:
 
